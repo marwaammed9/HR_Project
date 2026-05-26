@@ -23,5 +23,5 @@ A Windows Forms application built with C# and .NET for managing employees.
 ## How To Run
 1. Clone the repository
 2. Update connection string in `Settings.cs`
-3. Run the SQL script in `/Database` folder
+3. Run the SQL script in 'HR_Project.pdb` folder
 4. Build and run the project
