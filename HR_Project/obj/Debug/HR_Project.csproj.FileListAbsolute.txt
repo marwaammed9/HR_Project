@@ -1,0 +1,16 @@
+D:\C# Applications\HR_Project\bin\Debug\HR_Project.exe.config
+D:\C# Applications\HR_Project\bin\Debug\HR_Project.exe
+D:\C# Applications\HR_Project\bin\Debug\HR_Project.pdb
+D:\C# Applications\HR_Project\bin\Debug\HRBusniss.dll
+D:\C# Applications\HR_Project\bin\Debug\HR_Access.dll
+D:\C# Applications\HR_Project\bin\Debug\HRBusniss.pdb
+D:\C# Applications\HR_Project\bin\Debug\HR_Access.pdb
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.csproj.AssemblyReference.cache
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.Form1.resources
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.Properties.Resources.resources
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.csproj.GenerateResource.cache
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.csproj.CoreCompileInputs.cache
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.csproj.Up2Date
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.exe
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.pdb
+D:\C# Applications\HR_Project\obj\Debug\HR_Project.exe.config
